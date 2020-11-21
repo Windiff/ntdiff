@@ -1,6 +1,6 @@
 [submodule "Output"]
 	path = Output
-	url = git@github.com:ntdiff/headers.git
+	url = git@github.com:Windiff/headers.git
 [submodule "web"]
 	path = web
-	url = git@github.com:ntdiff/web.git
+	url = git@github.com:Windiff/web.git
